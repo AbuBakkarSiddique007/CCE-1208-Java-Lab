@@ -1,6 +1,16 @@
 /*
  * Task No: 1
  * Task Name: Create a BankAccount Class with Static Members
+ * Task Description:
+ * - Create a class BankAccount with the following attributes:
+ *   - accountNumber
+ *   - accountHolderName
+ *   - balance
+ *   - Static variable: bankName = "Sonali Bank"
+ *
+ * - Implement a constructor to initialize account details.
+ * - Create a static method showBankName() to display the bank name.
+ * - In the main class, create two BankAccount objects and display their information.
  */
 
 class BankAccount {

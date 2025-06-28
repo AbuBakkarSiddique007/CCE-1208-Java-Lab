@@ -1,5 +1,15 @@
 /*
  * Task: Create a LibraryBook Class Using this Keyword
+ * Task Description:
+ * - Create a class LibraryBook with the following attributes:
+ *   - title
+ *   - author
+ *   - bookID
+ *
+ * - Use the 'this' keyword in the constructor to initialize values.
+ * - Create a method displayBookInfo() to display the book details.
+ * - In the main class, create multiple LibraryBook objects and
+ *   display their information using the displayBookInfo() method.
  */
 
 class LibraryBook {
